@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CookVegie</string>
+    <string name="or">or</string>
+    <string name="upload_gambar_atau_buka_kamera">Upload gambar atau buka kamera</string>
+    <string name="masukan_link_gambar_di_sini">Masukan link gambar di sini</string>
+    <string name="menampilkan_hasil">Menampilkan hasil</string>
+    <string name="recipe_image">recipe image</string>
+    <string name="serve">/ serve</string>
+    <string name="bahan_bahan">Bahan-bahan</string>
+    <string name="prosedur_pembuatan">Prosedur Pembuatan</string>
+    <string name="kalori_per_serve">Kalori per serve</string>
+    <string name="retry">Retry</string>
+    <string name="label_loading">-</string>
+    <string name="add_to_favorite">add to favorite</string>
+    <string name="favorite_menu">Favorite Menu</string>
+</resources>
